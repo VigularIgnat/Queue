@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1675860303 source:c:\users\ignat\desktop\cpp projects\staks\queue1\main.cpp
+	<iostream>
+	"Queue.h"
+
+1675797508 c:\users\ignat\desktop\cpp projects\staks\queue1\include\queue.h
+	<iostream>
+	<string>
+
+1675862134 source:c:\users\ignat\desktop\cpp projects\staks\queue1\src\queue.cpp
+	"Queue.h"
+
